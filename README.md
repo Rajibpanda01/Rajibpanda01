@@ -28,3 +28,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibpanda01&show_icons=true&locale=en&layout=compact" alt="rajibpanda01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibpanda01&" alt="rajibpanda01" /></p>
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
